@@ -1,1 +1,1 @@
-# my-2nd-html-project
+# my-2nd-project
